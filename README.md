@@ -8,4 +8,4 @@ VGG19 network is used to extract feature map from fourth convolutional layer bef
 
 During generation of each word decoder can focus on certain portions of an image.
 
-<img src="https://s9.postimg.org/668lkdagf/img_-_Kopia.png" width="420"> 
+<img src="https://s14.postimg.org/pwhencbxd/canvas.png" width="420"> 
